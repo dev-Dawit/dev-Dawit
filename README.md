@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-Dawit
+- 👋 Hi, I’m Dawit
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on NodeJs, React 
